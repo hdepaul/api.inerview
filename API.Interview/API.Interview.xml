@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API.Interview</name>
+    </assembly>
+    <members>
+        <member name="M:API.Interview.Controllers.InterviewController.#ctor(Microsoft.Extensions.Logging.ILogger{API.Interview.Controllers.InterviewController})">
+            <summary>
+            
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:API.Interview.Controllers.InterviewController.Get(System.DateTime,System.Int32)">
+            <summary>
+            Returns random five time slots
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
